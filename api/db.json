@@ -1,0 +1,27 @@
+{
+  "productTypes": [
+    {
+      "id": "2Pj88FE",
+      "packsNumber": 12,
+      "packageType": "некомпрессия",
+      "isArchived": false,
+      "createdAt": "2024-01-25T16:08:24.630Z"
+    },
+    {
+      "packsNumber": 123,
+      "packageType": "компрессия",
+      "isArchived": true,
+      "description": "dsssddddd",
+      "createdAt": "2024-03-13T17:17:26.247Z",
+      "id": "MyxXHgs"
+    },
+    {
+      "packsNumber": 1,
+      "packageType": "компрессия",
+      "isArchived": true,
+      "description": "",
+      "createdAt": "2024-03-14T07:52:55.894Z",
+      "id": "sBVfU4B"
+    }
+  ]
+}
